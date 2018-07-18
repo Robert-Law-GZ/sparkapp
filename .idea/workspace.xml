@@ -1,7 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24283b6e-7540-4253-ad04-9df51b38dd2e" name="Default" comment="" />
+    <list default="true" id="24283b6e-7540-4253-ad04-9df51b38dd2e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__ant_ant_1_6_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__asm_asm_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__commons_net_commons_net_1_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_apache_hadoop_hadoop_core_1_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_eclipse_jdt_core_3_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../hadoop/hadoop-mapreduce-sample/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../scala-seed-project/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../scala-seed-project/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../scala-seed-project/.idea/modules/scala-seed-project-build.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../scala-seed-project/.idea/modules/scala-seed-project.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../scala-seed-project/.idea/sbt.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../scala-seed-project/.idea/scala_compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../scala-seed-project/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_eed3si9n_gigahorse_core_2_12_0_3_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_eed3si9n_gigahorse_okhttp_2_12_0_3_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_8_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_8_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_8_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_8_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_8_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_squareup_okhttp3_okhttp_3_7_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_squareup_okio_okio_1_12_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_2_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_functional_2_12_2_6_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_json_2_12_2_6_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_ssl_config_core_2_12_0_2_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__joda_time_joda_time_2_9_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_6_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_5_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_5_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_macro_compat_2_12_1_1_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/hello-build.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/hello.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/helloCore-build.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/helloCore.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/HelloWorld.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/core/Weather.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/HelloSpec.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/.idea/modules/untitled-build.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/.idea/scala_compiler.xml" />
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/consoles/.history/sbt.shell/180ed59ebfcb7f2e.txt" />
+      <change beforePath="$PROJECT_DIR$/../../../bbbb/SpringMVCSample/SpringMVCSample" afterPath="$PROJECT_DIR$/../../../bbbb/SpringMVCSample/SpringMVCSample" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/RLib/rlib.cpp" afterPath="$USER_HOME$/Documents/QTWorkSpaces/RLib/rlib.cpp" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/RLib/rlib.h" afterPath="$USER_HOME$/Documents/QTWorkSpaces/RLib/rlib.h" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/dll/dll.cpp" afterPath="$USER_HOME$/Documents/QTWorkSpaces/dll/dll.cpp" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/dll/dll.h" afterPath="$USER_HOME$/Documents/QTWorkSpaces/dll/dll.h" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/dll/dll.pro" afterPath="$USER_HOME$/Documents/QTWorkSpaces/dll/dll.pro" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled/.gitignore" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled/main.c" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled/untitled.pro" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/dll/libdll.1.0.0.dylib" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/dll/libdll.1.0.dylib" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/dll/libdll.1.dylib" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/dll/libdll.dylib" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/main.cpp" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/mainwindow.cpp" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/mainwindow.h" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/mainwindow.ui" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled1/untitled1.pro" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled3/untitled3.cpp" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled3/untitled3.h" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled3/untitled3.pro" afterPath="" />
+      <change beforePath="$USER_HOME$/Documents/QTWorkSpaces/untitled3/untitled3_global.h" afterPath="" />
+      <change beforePath="$USER_HOME$/README.md" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -26,8 +130,8 @@
       <file leaf-file-name="HelloWorld.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/HelloWorld.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="120">
+              <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="40" />
               <folding>
                 <element signature="e#17#54#0" expanded="true" />
               </folding>
@@ -35,21 +139,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
+      <file leaf-file-name="package.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/concurrent/package.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="267">
+              <caret line="166" column="14" lean-forward="false" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Weather.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Weather.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/core/Weather.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="210">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="e#22#65#0" expanded="true" />
               </folding>
@@ -614,15 +728,16 @@
       <workItem from="1531884011992" duration="2009000" />
       <workItem from="1531889622352" duration="206000" />
       <workItem from="1531889961230" duration="3613000" />
-      <workItem from="1531893843261" duration="2080000" />
+      <workItem from="1531893843261" duration="3796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15341000" />
+    <option name="totallyTimeSpent" value="17057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -634,7 +749,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41232732" sideWeight="0.74121404" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5727949" sideWeight="0.4025559" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4208289" sideWeight="0.4025559" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -647,7 +762,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45802337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5727949" sideWeight="0.5974441" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4208289" sideWeight="0.5974441" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27902022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4357067" sideWeight="0.64377" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -831,31 +946,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/example/core/Weather.scala">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#22#65#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="129">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/concurrent/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="166" column="14" lean-forward="false" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/example/HelloWorld.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="120">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="40" />
           <folding>
             <element signature="e#17#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/concurrent/Future.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="173">
+          <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/core/Weather.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#22#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
